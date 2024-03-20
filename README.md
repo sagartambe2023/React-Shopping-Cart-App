@@ -2,6 +2,8 @@
 
 Designed a simple react app for shopping cart with the help of React HTML-CSS and Bootstrap5
 
+Deployed On : https://65fad4a7443719079b3b11e4--startling-kataifi-0ff35f.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
