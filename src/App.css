@@ -1,0 +1,108 @@
+
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.navbar {
+  background-color: #d6cdcd;
+  padding: 10px 0;
+}
+
+.brandname {
+  font-size: 30px;
+  font-weight: bold;
+  color: #333;
+  text-decoration: none;
+}
+
+.navbar-nav {
+  margin-left: auto;
+}
+
+.nav-item {
+  margin-right: 20px;
+}
+
+.nav-link {
+  text-decoration: none;
+  transition: color 0.3s;
+  color: #333;
+}
+
+.nav-link:hover {
+  color:black;
+}
+
+header {
+  background-color: #33393f;
+  color: #fff;
+  padding: 50px 0;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 3rem;
+}
+
+.card {
+  margin-bottom: 30px;
+  border-radius: 15px;
+  overflow: hidden;
+}
+
+.card-body {
+  padding: 20px;
+}
+
+.card-img-top {
+  width: 100%;
+  height: auto;
+}
+
+.price-line-through {
+  color: #999;
+  text-decoration: line-through;
+}
+
+footer {
+  text-align: center;
+  padding: 20px 0;
+  background-color: #343a40;
+  color: #fff;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+  .navbar-brand {
+    font-size: 1.2rem;
+  }
+
+  .nav-item {
+    margin-right: 10px;
+  }
+
+  .navbar-collapse {
+    padding: 10px;
+  }
+
+  header h1 {
+    font-size: 2rem;
+  }
+
+  footer {
+    font-size: 0.8rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .card {
+    margin-bottom: 20px;
+  }
+}
+
+.buttonstyl{
+margin-top: auto;
+}
